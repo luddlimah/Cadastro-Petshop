@@ -7,8 +7,8 @@ graph LR
   Cadastro_pet --> Forma_de_pagamento
 
   Cadastro_pet["Cadastro_pet"]
-  Animal["Animal: Cachorro"]
-  Raça["Raça: Golden Retriever"]
-  Forma_de_pagamento["Forma de pagamento: Cartão de Crédito"]
+  Animal["Animal: tipo"]
+  Raça["Raça: tipo"]
+  Forma_de_pagamento["Forma de pagamento: Cartão de Crédito, pix, dinheiro"]
 
 ```
