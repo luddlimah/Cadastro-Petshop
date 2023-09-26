@@ -1,5 +1,6 @@
 # Cadastro-Petshop
-```
+##Diagrama de classes
+```mermaid
 {
   "theme": "neutral",
   "sequence": [
