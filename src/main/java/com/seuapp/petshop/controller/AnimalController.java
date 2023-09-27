@@ -13,7 +13,6 @@ public class AnimalController {
     public AnimalController(AnimalRepository ignoredAnimalRepository) {
     }
 
-
 }
 
 

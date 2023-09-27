@@ -36,7 +36,6 @@ class Raca {
 
 }
 
-a
 package com.seuapp.petshop.model;
 
 import javax.persistence.Entity;

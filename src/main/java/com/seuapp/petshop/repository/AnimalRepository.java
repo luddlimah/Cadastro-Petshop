@@ -1,4 +1,4 @@
-// AnimalRepository.java
+
 package com.seuapp.petshop.repository;
 
 import com.seuapp.petshop.model.Animal;
@@ -9,14 +9,14 @@ import org.springframework.stereotype.Repository;
 public interface AnimalRepository extends JpaRepository<Animal, Long> {
 }
 
-// RacaRepository.java
+
 package com.seuapp.petshop.repository;
 
         import com.seuapp.petshop.model.Raca;
         import org.springframework.data.jpa.repository.JpaRepository;
         import org.springframework.stereotype.Repository;
 
-// FormaPagamentoRepository.java
+
 package com.seuapp.petshop.repository;
 
         import com.seuapp.petshop.model.FormaPagamento;
